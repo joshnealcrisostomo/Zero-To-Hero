@@ -1,4 +1,4 @@
 # Beginner Projects
 ## Programming Languages used:
-    * C
-    * Java (with Java Swing)
+    *C
+    *Java (with Java Swing)
