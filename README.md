@@ -9,5 +9,41 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 | C | Java (with Java Swing) |
 
 # Project Overview
-1. **Hotel Reservation System**
-		- 
+For more detailed specifications, please visit each folder to view the PDF file for each project's specifications.
+
+
+### 1. Shuttle Service Ticket Booking
+desc
+ - **Key Features:**
+	 - Hotel Creation *(single/multiple)* 
+	  - Hotel Viewing *(see hotel information)* 
+		   - High-Level Information *(room count & estimated monthly earnings)*
+		    - Low-Level Infromation *(room/reservation/selected date information)*
+	   - Hotel Management
+	   - Booking Simulation 
+		    - Discount codes can be applied
+	    - User-friendly GUI
+
+### 2. Typing Game
+desc
+ - **Key Features:**
+	 - Hotel Creation *(single/multiple)* 
+	  - Hotel Viewing *(see hotel information)* 
+		   - High-Level Information *(room count & estimated monthly earnings)*
+		    - Low-Level Infromation *(room/reservation/selected date information)*
+	   - Hotel Management
+	   - Booking Simulation 
+		    - Discount codes can be applied
+	    - User-friendly GUI
+
+### 3. Hotel Reservation System
+A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
+ - **Key Features:**
+	 - Hotel Creation *(single/multiple)* 
+	  - Hotel Viewing *(see hotel information)* 
+		   - High-Level Information *(room count & estimated monthly earnings)*
+		    - Low-Level Infromation *(room/reservation/selected date information)*
+	   - Hotel Management
+	   - Booking Simulation 
+		    - Discount codes can be applied
+	    - User-friendly GUI
