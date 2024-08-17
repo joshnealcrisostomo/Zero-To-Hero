@@ -18,7 +18,7 @@ desc
 	 - Hotel Creation *(single/multiple)* 
 	  - Hotel Viewing *(see hotel information)* 
 		   - High-Level Information *(room count & estimated monthly earnings)*
-		    - Low-Level Infromation *(room/reservation/selected date information)*
+		   - Low-Level Information *(room/reservation/selected date information)*
 	   - Hotel Management
 	   - Booking Simulation 
 		    - Discount codes can be applied
@@ -30,7 +30,7 @@ desc
 	 - Hotel Creation *(single/multiple)* 
 	  - Hotel Viewing *(see hotel information)* 
 		   - High-Level Information *(room count & estimated monthly earnings)*
-		    - Low-Level Infromation *(room/reservation/selected date information)*
+		    - Low-Level Information *(room/reservation/selected date information)*
 	   - Hotel Management
 	   - Booking Simulation 
 		    - Discount codes can be applied
@@ -42,8 +42,8 @@ A simple hotel reservation system built using Java and Java Swing. The user can 
 	 - Hotel Creation *(single/multiple)* 
 	  - Hotel Viewing *(see hotel information)* 
 		   - High-Level Information *(room count & estimated monthly earnings)*
-		    - Low-Level Infromation *(room/reservation/selected date information)*
+		   - Low-Level Information *(room/reservation/selected date information)*
 	   - Hotel Management
 	   - Booking Simulation 
-		    - Discount codes can be applied
+		   - Discount codes can be applied
 	    - User-friendly GUI
