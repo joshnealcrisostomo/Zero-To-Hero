@@ -21,7 +21,7 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 ## Paradigms and Languages
 | Procedural Programming | Object-Oriented Programming (OOP) |
 |--|--|
-| ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) | ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) with ![Swing Badge](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white) |
+| ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) | ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Swing Badge](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white) |
 
 --------
 
