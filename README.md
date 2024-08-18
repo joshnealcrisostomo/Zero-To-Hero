@@ -13,8 +13,13 @@ For more detailed specifications, please visit each folder to view the PDF file 
 
 
 ### 1. Shuttle Service Ticket Booking
-desc
+A command-line application written in C that replicates and digitizes a simple ticketing booth for buses/shuttles.
  - **Key Features:**
+ 	- Seat Booking
+      	- Booking Cancellation
+      	- Automatic Schedule Updates
+      	- ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
+      	- Simple and efficient interface
 
 
 
