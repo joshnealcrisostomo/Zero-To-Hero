@@ -3,8 +3,6 @@ Welcome to my GitHub repository, where I have compiled a collection of beginner 
 
 The programs you'll encounter utilize the Command Line Interface (CLI), the Model-View-Controller Principle (MVC), and the Graphical User Interface (GUI).
 
---------
-
 ## Table of Contents
 1. [Paradigms and Languages](#paradigms-and-languages)
 2. [Shuttle Service Ticket Booking](#1-shuttle-service-ticket-booking)
@@ -12,6 +10,7 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 4. [Hotel Reservation System](#3-hotel-reservation-system)
 5. [Getting Started](#getting-started)
 
+--------
 
 ## Paradigms and Languages
 | Procedural Programming | Object-Oriented Programming (OOP) |
