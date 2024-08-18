@@ -58,9 +58,9 @@ A command-line typing game written in C that enhances a user's typing skills and
 A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
  - **Key Features:**
 	 - 🏨 Hotel Creation *(single/multiple)* 
-	 - 🏙️ Hotel Viewing *(see hotel information)* 
-		   - 📊 High-Level Information *(room count & estimated monthly earnings)*
-		   - 🔍 Low-Level Information *(room/reservation/selected date information)*
+	 - 🏙️ Hotel Viewing *(see hotel information)*
+  		- 📊 High-Level Information *(room count & estimated monthly earnings)*
+		- 🔍 Low-Level Information *(room/reservation/selected date information)*
 	 - 🛠️ Hotel Management
 	 - 📅 Booking Simulation 
 		   - 💸 Discount codes can be applied
