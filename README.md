@@ -21,13 +21,18 @@ A command-line application written in C that replicates and digitizes a simple t
    	- ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
    	- Simple and efficient interface
 
+--------
 
 ## 2. Typing Game
-desc
+A command-line typing game written in C that enhances a user's typing skills and typing speed.
  - **Key Features:**
+ 	- Seat Booking
+  	- Booking Cancellation
+   	- Automatic Schedule Updates
+   	- ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
+   	- Simple and efficient interface
 
-
-
+--------
 
 ## 3. Hotel Reservation System
 A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
