@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joshcrisostomo/Desktop/Freshman Projects/Shuttle Service Ticket Booking/output/TicketBooking'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _getSeat, symObjAddr: 0x0, symBinAddr: 0x100000798, symSize: 0x264 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _getSeat, symObjAddr: 0x0, symBinAddr: 0x100000798, symSize: 0x264 }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: _displayHeader, symObjAddr: 0x264, symBinAddr: 0x1000009FC, symSize: 0x40 }
+  - { offsetInCU: 0x158, offset: 0x158, size: 0x8, addend: 0x0, symName: _displayMenu, symObjAddr: 0x2A4, symBinAddr: 0x100000A3C, symSize: 0x4C }
+  - { offsetInCU: 0x17C, offset: 0x17C, size: 0x8, addend: 0x0, symName: _showRoute, symObjAddr: 0x2F0, symBinAddr: 0x100000A88, symSize: 0x78 }
+  - { offsetInCU: 0x1AE, offset: 0x1AE, size: 0x8, addend: 0x0, symName: _displaySeats, symObjAddr: 0x368, symBinAddr: 0x100000B00, symSize: 0x1E0 }
+  - { offsetInCU: 0x2DA, offset: 0x2DA, size: 0x8, addend: 0x0, symName: _bookSeat, symObjAddr: 0x548, symBinAddr: 0x100000CE0, symSize: 0x690 }
+  - { offsetInCU: 0x416, offset: 0x416, size: 0x8, addend: 0x0, symName: _cancelBook, symObjAddr: 0xBD8, symBinAddr: 0x100001370, symSize: 0x610 }
+  - { offsetInCU: 0x565, offset: 0x565, size: 0x8, addend: 0x0, symName: _displaySchedule, symObjAddr: 0x11E8, symBinAddr: 0x100001980, symSize: 0x58C }
+  - { offsetInCU: 0x58B, offset: 0x58B, size: 0x8, addend: 0x0, symName: _updateSchedule, symObjAddr: 0x1774, symBinAddr: 0x100001F0C, symSize: 0x4F8 }
+  - { offsetInCU: 0x6BC, offset: 0x6BC, size: 0x8, addend: 0x0, symName: _displayBus, symObjAddr: 0x1C6C, symBinAddr: 0x100002404, symSize: 0x264 }
+  - { offsetInCU: 0x7DC, offset: 0x7DC, size: 0x8, addend: 0x0, symName: _displayCount, symObjAddr: 0x1ED0, symBinAddr: 0x100002668, symSize: 0x54 }
+  - { offsetInCU: 0x802, offset: 0x802, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1F24, symBinAddr: 0x1000026BC, symSize: 0x6B4 }
+...
