@@ -9,10 +9,10 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 | C | Java (with Java Swing) |
 
 # Project Overview
-For more detailed specifications, please visit each folder to view the PDF file for each project's specifications.
+For more details, please visit each folder to view the PDF file for each project's specifications.
 
 
-### 1. Shuttle Service Ticket Booking
+## 1. Shuttle Service Ticket Booking
 A command-line application written in C that replicates and digitizes a simple ticketing booth for buses/shuttles.
  - **Key Features:**
  	- Seat Booking
@@ -22,16 +22,14 @@ A command-line application written in C that replicates and digitizes a simple t
    	- Simple and efficient interface
 
 
-
-
-### 2. Typing Game
+## 2. Typing Game
 desc
  - **Key Features:**
 
 
 
 
-### 3. Hotel Reservation System
+## 3. Hotel Reservation System
 A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
  - **Key Features:**
 	 - Hotel Creation *(single/multiple)* 
