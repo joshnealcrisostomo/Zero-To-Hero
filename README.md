@@ -27,11 +27,13 @@ A command-line application written in C that replicates and digitizes a simple t
 --------
 
 ## 2. Typing Game
-A command-line typing game written in C that enhances a user's typing skills and typing speed.
+A command-line typing game written in C that enhances a user's typing skills and typing speed. This text-based version requires a player to correctly type a random phrase until he runs out of lives.
  - **Key Features:**
- 	- Seat Booking
-  	- Booking Cancellation
-   	- Automatic Schedule Updates
+ 	- Interactive user experience
+  	- Admin Access *(with password)*
+   	- Import and use list/s of phrases and high scores using text files
+   	- Export and save a manually created list/s of phrases into a text file
+   	- Export and save current high scores 
    	- ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
    	- Simple and efficient interface
 
@@ -48,3 +50,12 @@ A simple hotel reservation system built using Java and Java Swing. The user can 
 	  - Booking Simulation 
 		   - Discount codes can be applied
 	  - User-friendly GUI
+
+--------
+
+## Getting Started
+
+To explore the projects, clone this repository using the following command:
+
+```bash
+git clone https://github.com/yourusername/freshman-projects.git
