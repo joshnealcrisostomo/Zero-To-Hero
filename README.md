@@ -1,9 +1,9 @@
 # Beginner Projects
 
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/freshman-projects)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/freshman-projects)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/freshman-projects)
-![GitHub License](https://img.shields.io/github/license/yourusername/freshman-projects)
+![GitHub top language](https://img.shields.io/github/languages/top/joshnealcrisostomo/freshman-projects)
+![GitHub repo size](https://img.shields.io/github/repo-size/joshnealcrisostomo/freshman-projects)
+![GitHub last commit](https://img.shields.io/github/last-commit/joshnealcrisostomo/freshman-projects)
+![GitHub License](https://img.shields.io/github/license/joshnealcrisostomo/freshman-projects)
 
 Welcome to my GitHub repository, where I have compiled a collection of beginner projects I worked on during my freshman year as I progressed from having zero Computer Science knowledge to being a beginner programmer.
 
