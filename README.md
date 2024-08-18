@@ -17,9 +17,9 @@ A command-line application written in C that replicates and digitizes a simple t
  - **Key Features:**
  	- Seat Booking
   	- Booking Cancellation
-       	- Automatic Schedule Updates
-      	- ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
-      	- Simple and efficient interface
+   	- Automatic Schedule Updates
+   	- ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
+   	- Simple and efficient interface
 
 
 
