@@ -1,4 +1,4 @@
-# Freshman Year Projects
+# Beginner Projects
 Welcome to my GitHub repository, where I have compiled a collection of beginner projects I worked on during my freshman year as I progress coming from zero Computer Science knowledge to a beginner programmer.
 
 The programs you'll encounter utilize the Command Line Interface (CLI), the Model-View-Controller Principle (MVC), and the Graphical User Interface (GUI).
