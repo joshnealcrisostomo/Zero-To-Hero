@@ -1,0 +1,67 @@
+
+Identifiers:
+    * 0, 1, 2, ..., n - 1
+    * n --> # of account in a network
+    * e --> number of friendships in a network
+    * BI-DIRECTIONAL = undirected graph
+
+        FIRST LINE OF EVERY TXT FILE:
+            >> n e
+
+        REST OF THE LINES:
+            >> 0 <= a, b < n
+            >> a b
+
+            >>    <==>
+                - (you) are friends with (jacky)   |   (jacky) is friends with (you)
+                - (you) are friends with (jao)     |   (jao) is friends with (you)
+                - (jao) is friends with (jacky)    |   (jacky) is friends with (jao)
+                - (andrei) is friends with (you)   |   (you) is friends with (andrei)
+
+------------------------------------------------------------------------------------------------------------------------
+
+IMPLEMENTING THE PROGRAM:
+    * Read a file in the format given above and load the graph into an appropriate data structure for processing
+    * Given an ID number, display that person's friend list
+    * Given two ID numbers, display the connection between those two people in the network, if it exists
+
+Part I. [Loading the Graph]
+    (1) read the file name via CLI input
+    (2) store the data in the appropriate data structure
+            >> arrayList
+            >> linked list
+
+            to store:
+            >> queue
+            >> stack
+
+Part II. [Display Friend List]
+     (1) ask for id number via CLI input
+     (2) if ID = DNE, display error message + ask again (w/o termination)
+            >> while(!isValid)
+            >> keep on asking
+
+     (3) if ID = exists, display list and total number of friends of that person with that ID
+
+Part III. [Display Connections]
+     (1) ask for two id numbers via CLI
+            >> a = ID1
+            >> b = ID2
+
+     (2) if a = DNE & b = DNE, display error message (w/o termination)
+            >> while(!isValid)
+            >> keep on asking
+
+     (3) Otherwise, display the connection between a and b
+            >> connection is a sequence
+
+                >> (a), c1, c2, c3, ..., cn, (b)
+                    - (a) is friends with (c1)
+                    - (c1) is friends with (c2)
+                    - (c2) is friends with (c3, ..., cn)
+                    - (cn) is friends with (b)
+
+            ** If a connection = DNE, display error message (w/o termination)
+                >> while(!hasConnection)
+
+------------------------------------------------------------------------------------------------------------------------
