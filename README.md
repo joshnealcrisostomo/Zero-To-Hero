@@ -80,10 +80,10 @@ A simple command-line application that showcases the difference between Insertio
 --------
 
 ## 5. Social Graph Networks
-A simple command-line program that demonstrates how networks work in various platforms, like Facebook, uses Depth-First Search (DFS).
+A simple command-line program that demonstrates how networks work in various platforms, like Facebook, uses Graph and Depth-First Search (DFS).
  - **Key Features:**
 	 - 📂 Allows the user to choose various randomized data.
-	 - 🛠️ Simple and easy-to-understand implementation of DFS
+	 - 🛠️ Simple and easy-to-understand implementation of DFS, Graph, and Stacks
  	 - 📲 Replicates how apps use networks *(simple version)*
    	 - 💻 Simple and efficient interface
 
