@@ -1,4 +1,4 @@
-# Beginner Projects
+![Screenshot 2024-08-19 at 5 32 25 PM](https://github.com/user-attachments/assets/4c5bda84-2828-4eaf-8906-708f6c319dcb)# Beginner Projects
 
 ![GitHub top language](https://img.shields.io/github/languages/top/joshnealcrisostomo/freshman-projects)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joshnealcrisostomo/freshman-projects)
@@ -39,6 +39,12 @@ A command-line application written in C that replicates and digitizes a simple t
    	- 🕒 Automatic Schedule Updates
    	- 📊 ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
    	- 🖥️ Simple and efficient interface
+
+![Screenshot 2024-08-19 at 5 33 57 PM](https://github.com/user-attachments/assets/fddb709d-6cec-4c82-a6da-9ec67a86214d)
+
+![Screenshot 2024-08-19 at 5 34 07 PM](https://github.com/user-attachments/assets/7755c2b1-0f32-4f8a-ad53-6b6486215511)
+
+![Screenshot 2024-08-19 at 5 34 15 PM](https://github.com/user-attachments/assets/c4c6b19c-adf4-45f7-a4ff-bf3c81a07a09)
 
 --------
 
@@ -88,6 +94,8 @@ A simple command-line program that demonstrates how networks work in various pla
 	 - 🛠️ Simple and easy-to-understand implementation of DFS, Graph, and Stacks
  	 - 📲 Replicates how apps use networks *(simple version)*
    	 - 💻 Simple and efficient interface
+
+![Screenshot 2024-08-19 at 5 32 25 PM](https://github.com/user-attachments/assets/fd37f139-44ad-485e-a929-606949d5539f)
 
 --------
 
