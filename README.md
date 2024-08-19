@@ -14,7 +14,9 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 2. [Shuttle Service Ticket Booking](#1-shuttle-service-ticket-booking)
 3. [Typing Game](#2-typing-game)
 4. [Hotel Reservation System](#3-hotel-reservation-system)
-5. [Getting Started](#getting-started)
+5. [Sorting Algorithms](#4-sorting-algorithms)
+6. [Social Graph Networks](#5-social-graph-networks)
+7. [Getting Started](#getting-started)
 
 --------
 
@@ -55,6 +57,30 @@ A command-line typing game written in C that enhances a user's typing skills and
 --------
 
 ## 3. Hotel Reservation System
+A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
+ - **Key Features:**
+	 - 🏨 Hotel Creation *(single/multiple)* 
+	 - 🏙️ Hotel Viewing *(see hotel information)*
+  		- 📊 High-Level Information *(room count & estimated monthly earnings)*
+		- 🔍 Low-Level Information *(room/reservation/selected date information)*
+	 - 🛠️ Hotel Management
+	 - 📅 Booking Simulation 
+		   - 💸 Discount codes can be applied
+	 - 🖥️ User-friendly GUI
+
+--------
+
+## 4. Sorting Algorithms
+A simple command-line application that showcases the difference between Insertion Sort, Selection Sort, Merge Sort, and Bubble Sort.
+ - **Key Features:**
+	 - ⏱️ Displays Execution Times
+	 - 1️⃣ Displays the total number of steps done per execution. *(Empirical Count)*
+	 - 📂 Allows the user to choose various randomized data.
+   	 - 💻 Simple and efficient interface
+
+--------
+
+## 5. Social Graph Networks
 A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
  - **Key Features:**
 	 - 🏨 Hotel Creation *(single/multiple)* 
