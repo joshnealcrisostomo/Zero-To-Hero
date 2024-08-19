@@ -80,16 +80,12 @@ A simple command-line application that showcases the difference between Insertio
 --------
 
 ## 5. Social Graph Networks
-A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days).
+A simple command-line program that demonstrates how networks work in various platforms, like Facebook, uses Depth-First Search (DFS).
  - **Key Features:**
-	 - 🏨 Hotel Creation *(single/multiple)* 
-	 - 🏙️ Hotel Viewing *(see hotel information)*
-  		- 📊 High-Level Information *(room count & estimated monthly earnings)*
-		- 🔍 Low-Level Information *(room/reservation/selected date information)*
-	 - 🛠️ Hotel Management
-	 - 📅 Booking Simulation 
-		   - 💸 Discount codes can be applied
-	 - 🖥️ User-friendly GUI
+	 - 📂 Allows the user to choose various randomized data.
+	 - 🛠️ Simple and easy-to-understand implementation of DFS
+ 	 - 📲 Replicates how apps use networks *(simple version)*
+   	 - 💻 Simple and efficient interface
 
 --------
 
@@ -102,7 +98,7 @@ A simple hotel reservation system built using Java and Java Swing. The user can 
 
 --------
 
-## Getting Started
+# Getting Started
 
 To explore the projects, clone this repository using the following command:
 
