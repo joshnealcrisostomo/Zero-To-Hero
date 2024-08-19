@@ -67,6 +67,8 @@ A simple hotel reservation system built using Java and Java Swing. The user can 
 		   - 💸 Discount codes can be applied
 	 - 🖥️ User-friendly GUI
 
+![sortingAlgoPic](https://github.com/user-attachments/assets/350eedf6-d2d5-4d45-afe9-960fd7598a3a)
+
 --------
 
 ## 4. Sorting Algorithms
@@ -76,6 +78,8 @@ A simple command-line application that showcases the difference between Insertio
 	 - 1️⃣ Displays the total number of steps done per execution. *(Empirical Count)*
 	 - 📂 Allows the user to choose various randomized data.
    	 - 💻 Simple and efficient interface
+
+![Sorting Algorithms Project snippet]
 
 --------
 
