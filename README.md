@@ -1,4 +1,4 @@
-![Screenshot 2024-08-19 at 5 32 25 PM](https://github.com/user-attachments/assets/4c5bda84-2828-4eaf-8906-708f6c319dcb)# Beginner Projects
+# Beginner Projects
 
 ![GitHub top language](https://img.shields.io/github/languages/top/joshnealcrisostomo/freshman-projects)
 ![GitHub repo size](https://img.shields.io/github/repo-size/joshnealcrisostomo/freshman-projects)
