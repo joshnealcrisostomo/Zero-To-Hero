@@ -82,4 +82,4 @@ A simple hotel reservation system built using Java and Java Swing. The user can 
 To explore the projects, clone this repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/freshman-projects.git
+[git clone https://github.com/yourusername/freshman-projects.git](https://github.com/joshnealcrisostomo/Zero-To-Hero.git)
