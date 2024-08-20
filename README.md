@@ -49,6 +49,7 @@ A command-line application written in C that replicates and digitizes a simple t
 --------
 
 ## 2. Typing Game
+⚠️Disclaimer: Only works on Windows due to implementation of the library *"conio.h"*
 A command-line typing game written in C that enhances a user's typing skills and typing speed. This text-based version requires a player to correctly type a random phrase until he runs out of lives.
  - **Key Features:**
  	- 🎮 Interactive user experience
@@ -58,6 +59,8 @@ A command-line typing game written in C that enhances a user's typing skills and
    	- 🏆 Export and save current high scores
    	- 🖥️ ASCII 2D Bus/Shuttle Representation *(automatically shows the vacant and booked seats)*
    	- 💻 Simple and efficient interface
+
+![454403424_845891227512131_3536309485486391788_n](https://github.com/user-attachments/assets/86e3a6bd-c7fc-455e-a26d-78f952c8a236)
 
 --------
 
