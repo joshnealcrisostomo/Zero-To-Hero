@@ -77,6 +77,10 @@ A simple hotel reservation system built using Java and Java Swing. The user can 
 		   - 💸 Discount codes can be applied
 	 - 🖥️ User-friendly GUI
 
+![455258319_2008043736292237_3572724620108660544_n](https://github.com/user-attachments/assets/0754ca5b-e1fb-491f-8c17-8c7b829fdf2b)
+
+![454525493_1935537463563443_8907668101582743733_n](https://github.com/user-attachments/assets/0f632c3d-a47f-4c55-9135-823250876aa4)
+
 --------
 
 ## 4. Sorting Algorithms
