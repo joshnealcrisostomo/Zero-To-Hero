@@ -12,7 +12,7 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 ## Table of Contents
 1. [Shuttle Service Ticket Booking](#1-shuttle-service-ticket-booking)
 2. [Typing Game](#2-typing-game)
-3. [Hotel Reservation/Management System](#3-hotel-reservation/management-system)
+3. [Hotel Reservation/Management System](#3-hotel-reservation-system)
 4. [Sorting Algorithms](#4-sorting-algorithms)
 5. [Social Graph Networks](#5-social-graph-networks)
 6. [Getting Started](#getting-started)
