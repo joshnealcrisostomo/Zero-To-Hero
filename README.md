@@ -12,7 +12,7 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 ## Table of Contents
 1. [Shuttle Service Ticket Booking](#1-shuttle-service-ticket-booking)
 2. [Typing Game](#2-typing-game)
-3. [Hotel Reservation/Management System](#3-hotel-reservation-system)
+3. [Hotel Management System](#3-hotel-reservation-system)
 4. [Sorting Algorithms](#4-sorting-algorithms)
 5. [Social Graph Networks](#5-social-graph-networks)
 6. [Getting Started](#getting-started)
@@ -65,7 +65,7 @@ A command-line typing game written in C that enhances a user's typing skills and
 
 --------
 
-## 3. Hotel Reservation/Management System
+## 3. Hotel Management System
 A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days). The project is done together with my pair, Andrei De Jesus.
  - **Key Features:**
 	 - 🏨 Hotel Creation *(single/multiple)* 
