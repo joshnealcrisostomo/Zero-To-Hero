@@ -49,7 +49,7 @@ A command-line application written in C that replicates and digitizes a simple t
 --------
 
 ## 2. Typing Game
-⚠️Disclaimer: Only works on Windows due to implementation of the library *"conio.h"*
+⚠️ Disclaimer: Only works on Windows due to implementation of the library *"conio.h"*
 
 A command-line typing game written in C that enhances a user's typing skills and typing speed. This text-based version requires a player to correctly type a random phrase until he runs out of lives.
  - **Key Features:**
@@ -66,7 +66,7 @@ A command-line typing game written in C that enhances a user's typing skills and
 --------
 
 ## 3. Hotel Management System
-⚠️Recommended to run on Windows due to the compatibility of Java Swing with Windows compared to other Operating Systems.
+⚠️ Recommended to run on Windows due to the compatibility of Java Swing with Windows compared to other Operating Systems.
 
 A simple hotel reservation system built using Java and Java Swing. The user can create multiple hotels, view a hotel, manage a hotel, and make reservations within a month (31 days). The project is done together with my pair, Andrei De Jesus.
  - **Key Features:**
