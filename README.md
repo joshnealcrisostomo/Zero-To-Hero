@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/joshnealcrisostomo/freshman-projects)
 ![GitHub License](https://img.shields.io/github/license/joshnealcrisostomo/freshman-projects)
 
-Welcome to my GitHub repository, where I have compiled a collection of beginner projects I worked on during my freshman year as I progressed from having zero Computer Science knowledge to being a beginner programmer.
+Welcome to my GitHub repository, where I have compiled a collection of beginner projects I worked on as I progressed from having zero Computer Science knowledge to being a beginner programmer.
 
 The programs you'll encounter utilize the Command Line Interface (CLI), the Model-View-Controller Principle (MVC), and the Graphical User Interface (GUI).
 
