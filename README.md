@@ -26,11 +26,6 @@ The programs you'll encounter utilize the Command Line Interface (CLI), the Mode
 
 --------
 
-# Project Overview
-For more details, please visit each folder to view the PDF file for each project's specifications.
-
---------
-
 ## 1. Shuttle Service Ticket Booking
 A command-line application written in C that replicates and digitizes a simple ticketing booth for buses/shuttles.
  - **Key Features:**
